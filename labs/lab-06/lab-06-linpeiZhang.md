@@ -57,4 +57,8 @@ And then head over to your rest client (step 2 above) to complete the task. Alte
    
    model = fasttext.load_model("en.quant.bin")
    match = model.get_nearest_neighbors("italian")
+   doc=["dog","bakery","horse","florida","supreme","man"]
+   for i in doc:
+      print(i)
+      print((model.get_nearest_neighbors(i)))
    ```
