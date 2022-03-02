@@ -4,12 +4,6 @@
 
 #### Term: Fall 2021
 
-#### Section 1: Mondays 6:30-9pm EST (Remote)
-
-#### Section 2: Thursdays 3:30-6pm EST (Intercultural Center Rm.115)
-
-#### Prerequisites: ANLY-501 Machine Learning
-
 #
 ## Course Description
 Natural language processing (NLP) is a critical component of modern information systems. The confluence of deep learning, massive datasets, and hardware accelerators has resulted in systems that approach and in some cases exceed human level performance on benchmark language tasks. In this course we will explore three principal questions: 1) how do we frame language understanding as a tractable statistical inference problem, 2) what are the current state-of-the-art modeling approaches, and 3) how are NLP systems designed and evaluated. In exploring these questions the course exposes students to the foundational math, implementation methods, practical applications, and current research directions in the field. The course will focus less on task-specific feature engineering in order to provide a more complete exposition of the methods that have proven to be most successful in real world applications such as web search, recommender systems, voice and text based chatbots, and machine translation. This course assumes a basic understanding of linear algebra, probability theory, first order optimization methods, and neural networks.
